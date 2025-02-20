@@ -15,5 +15,8 @@ This project is part of my coursework at EMINES. Our team implemented key algori
 ## Acknowledgments
 
 - This project is developed as part of the coursework at EMINES.
-- Thanks to Lisa Bedin and Laurent Miclet for their supervision.
-- Many thanks to Peer Neubert, Stefan Schubert, and Peter Protzel for their insightful article *An Introduction to Hyperdimensional Computing for Robotics*.
+- Thanks to **Lisa Bedin** and **Laurent Miclet** for their supervision.
+- Many thanks to **Peer Neubert**, **Stefan Schubert**, and **Peter Protzel** for their insightful article *An Introduction to Hyperdimensional Computing for Robotics*.
+- Special thanks to my teammates **Zakaria Echakir** (Zakaria.ECHAKIR@emines.um6p.ma) and **Oussama Chahbi** (Oussama.CHAHBI@emines.um6p.ma) for their hard work and collaboration throughout this project.
+
+Ahmed EL ALAOUI (Ahmed.ELALAOUI@emines.um6p.ma)
